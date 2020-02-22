@@ -34,6 +34,14 @@ This Contains some maps for Grand Theft Auto, FiveM Friendly
 
 mirrors are only black textures
 
+### Taxi
+
+Not tested yet
+
+all credit goes to [*UncleJust*](https://github.com/UncleJust)
+
+
+
 ### Car Dealership
 
 `work in progress`
